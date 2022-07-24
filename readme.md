@@ -18,6 +18,7 @@
  
 <div> 
 
-  ![Snake animation](https://github.com/Littlemr1/Littlemr1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/Littlemr1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
